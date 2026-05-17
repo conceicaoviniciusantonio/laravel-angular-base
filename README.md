@@ -8,7 +8,6 @@ A monorepo base for building applications with Laravel + Angular. Decoupled arch
 |---|---|
 | Backend | Laravel 12+ / PHP 8.4 (API only) |
 | Frontend | Angular 21+ / TypeScript (SPA) |
-| UI | Nebular UI |
 | Banco de dados | MySQL 8.0 |
 | Ambiente | Docker + Docker Compose |
 
