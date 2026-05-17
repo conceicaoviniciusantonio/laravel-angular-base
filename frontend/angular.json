@@ -6,7 +6,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "connector-manager": {
+    "laravel-angular-base": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -61,10 +61,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "connector-manager:build:production"
+              "buildTarget": "laravel-angular-base:build:production"
             },
             "development": {
-              "buildTarget": "connector-manager:build:development"
+              "buildTarget": "laravel-angular-base:build:development"
             }
           },
           "defaultConfiguration": "development"

@@ -1,6 +1,6 @@
-# ConnectorManager
+# LaravelAngularBase
 
-An internal enterprise system designed to manage, configure, and monitor data connectors. Built with a decoupled Monorepo architecture.
+A generic monorepo base for building applications with Laravel + Angular. Built with a decoupled Monorepo architecture.
 
 ## 🚀 Tech Stack
 
@@ -12,7 +12,7 @@ An internal enterprise system designed to manage, configure, and monitor data co
 ## 📁 Project Structure
 
 ```text
-connector-manager/
+laravel-angular-base/
 ├── backend/               # Laravel API
 ├── frontend/              # Angular SPA
 ├── docker-compose.yml     # Global Orchestrator

@@ -1,5 +1,5 @@
 {
-  "name": "connector-manager",
+  "name": "laravel-angular-base",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
